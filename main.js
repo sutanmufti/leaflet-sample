@@ -9,7 +9,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 // ADDING THE GEOJSON DATA
 // importing the geojson data as a module.
-import {picadilly as data} from "./data/underground/picadilly.js"
+import {picadilly as data} from "./data/picadilly.js"
 
 
 // ---- PREPARING SOME CALLBACKS

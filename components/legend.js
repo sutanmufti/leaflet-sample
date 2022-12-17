@@ -1,4 +1,7 @@
+// source https://codepen.io/haakseth/pen/KQbjdO
 export default (map) => {
+
+    // we style the <i> in the style.css!!!
     console.log("hello from generator")
       var div = L.DomUtil.create("div", "legend");
       div.innerHTML += "<h4>Tegnforklaring</h4>";
